@@ -1,6 +1,6 @@
 # Amirkabir Artificial Intelligence Summer Summit 2020
 
-The material used in **Introduction to Fundamentals, Applications and Libraries of Adversarial Attacks** for AAISS 2020 
+The material used in **Introduction to Fundamentals, Applications and Libraries of Adversarial Attacks** for AAISS 2020.
 
 ### Papers explained:
 - **FGSM**: https://arxiv.org/abs/1412.6572
