@@ -17,3 +17,5 @@ The material used in **Introduction to Fundamentals, Applications and Libraries 
 - **Stateful Detection**: https://github.com/schoyc/blackbox-detection
 - **FGSM**: https://www.tensorflow.org/tutorials/generative/adversarial_fgsm
 - **Neural Structure Learning for Adversarial regularization**: https://www.tensorflow.org/neural_structured_learning/tutorials/adversarial_keras_cnn_mnist
+
+Link to the presentation video: https://aparat.com/v/NTrEG
