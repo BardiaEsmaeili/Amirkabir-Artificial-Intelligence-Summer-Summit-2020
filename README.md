@@ -2,6 +2,8 @@
 
 The material used in **Introduction to Fundamentals, Applications and Libraries of Adversarial Attacks** for AAISS 2020.
 
+**Link to the presentation video**: https://aparat.com/v/NTrEG
+
 ### Papers explained:
 - **FGSM**: https://arxiv.org/abs/1412.6572
 - **DeepFool**: https://arxiv.org/abs/1511.04599
@@ -17,6 +19,3 @@ The material used in **Introduction to Fundamentals, Applications and Libraries 
 - **Stateful Detection**: https://github.com/schoyc/blackbox-detection
 - **FGSM**: https://www.tensorflow.org/tutorials/generative/adversarial_fgsm
 - **Neural Structure Learning for Adversarial regularization**: https://www.tensorflow.org/neural_structured_learning/tutorials/adversarial_keras_cnn_mnist
-
-
-**Link to the presentation video**: https://aparat.com/v/NTrEG
